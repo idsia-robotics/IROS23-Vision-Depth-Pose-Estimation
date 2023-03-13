@@ -1,4 +1,4 @@
-## IROS'23 — Supplementary video material
+## IROS'23 2255 — Supplementary video material
 
 Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters
 
@@ -12,7 +12,7 @@ Daniele Palossi<sup>1,2</sup>
 <sup>2 </sup>Integrated Systems Laboratory (IIS), ETH Zürich, Zürich, Switzerland.<br>
 
 <!--
-<a href="https://youtu.be/xxxxx">
+<a href="https://youtu.be/cxgk2rugLWA">
   <b>In-field experiments video</b>
   <br>
   <img src="images/video_cover.png" alt="In-field experiments video" width="800">  
