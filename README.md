@@ -11,10 +11,8 @@ Daniele Palossi<sup>1,2</sup>
 <sup>1 </sup>Dalle Molle Institute for Artificial Intelligence (IDSIA), USI and SUPSI, Lugano, Switzerland.<br>
 <sup>2 </sup>Integrated Systems Laboratory (IIS), ETH Zürich, Zürich, Switzerland.<br>
 
-<!--
 <a href="https://youtu.be/cxgk2rugLWA">
   <b>In-field experiments video</b>
   <br>
   <img src="images/video_cover.png" alt="In-field experiments video" width="800">  
 </a>
--->
